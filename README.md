@@ -49,7 +49,7 @@ here are some other install tutorials:
 
 ### tips
 * dont delete the lvm storage. use it for the VM storage.
-* remote desktop via rustdesk or Remmina, or usind SPICE proxmox. and many other options.( I use rustdesk)
+* remote desktop via rustdesk or Remmina, or use SPICE proxmox. and many other options.( I use rustdesk)
 
 # Thanks for reading
 
